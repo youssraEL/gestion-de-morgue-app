@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.akveo</groupId>
-	<artifactId>bundle-java8</artifactId>
+	<artifactId>bundle-java11</artifactId>
 	<version>1.0.0</version>
 	<name>bundle-java</name>
 	<packaging>jar</packaging>
